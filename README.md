@@ -5,7 +5,7 @@ Initially, we were debating different ways to measure the height. At first, we t
 # The device
 
  ![Alt Text](https://github.com/BaraaAlJorf/Rock-Climbing-device/blob/main/Images/20201204_050135.jpg)
- ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_212302.jpg)
+ ![Alt Text](https://github.com/BaraaAlJorf/Rock-Climbing-device/blob/main/Images/20201204_050139.jpg)
 
 The device mainly consists of our circuitboard which included two sets of five LEDs. The set on the left corresponds to remaining time and the one on the left corresponds to height above ground. The set on the left is initally all lit up and the LEDs turn off every one minute (there are four white LEDs that turn off and one yellow LED that indicates that this is the time column.) The set on the right is intially all off (except for one LED at the bottom which indicates that this is the height column.) Every one meter that the climber climbs, an LED is lit up. The circuitboard is covered by a two layers of resin one transparent layer at the top and one white layer at the bottom. The white layer is attached to a resin hook that in turn attaches to the climbing rope.
 
