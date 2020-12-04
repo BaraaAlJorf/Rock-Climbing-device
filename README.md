@@ -11,6 +11,6 @@ The device mainly consists of our circuitboard which included two sets of five L
 
 # Video of Functionality
 
- [Alt Text](https://drive.google.com/file/d/1YkaZkCXYiNBTf-IOtIrgaM6jbR-h7BGu/view?usp=sharing)
+ [Video](https://drive.google.com/file/d/1YkaZkCXYiNBTf-IOtIrgaM6jbR-h7BGu/view?usp=sharing)
  
 As the person goes up the stairs holding the device, more height LEDS light up and as time passes the time LEDs turn off
